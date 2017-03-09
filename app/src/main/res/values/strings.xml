@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">MoodicApp</string>
+
+    <string-array name="moodsName">
+        <item>My Favorites</item>
+        <item>Stressed</item>
+        <item>Sad</item>
+        <item>Depressed</item>
+        <item>Nervous</item>
+        <item>Calm</item>
+        <item>Happy</item>
+        <item>Cool</item>
+        <item>Romantic</item>
+        <item>Tired</item>
+        <item>Aggressive</item>
+        <item>Energetic</item>
+        <item>Optimistic</item>
+        <item>Exited</item>
+    </string-array>
+
+    <string-array name="colorsPrimaryName">
+        <item>colorDeepPurple</item>
+        <item>colorBlueGrey</item>
+        <item>colorIndigo</item>
+        <item>colorGrey</item>
+        <item>colorBrown</item>
+        <item>colorPurple</item>
+        <item>colorAmber</item>
+        <item>colorCyan</item>
+        <item>colorPink</item>
+        <item>colorTeal</item>
+        <item>colorRed</item>
+        <item>colorGreen</item>
+        <item>colorLime</item>
+        <item>colorOrange</item>
+    </string-array>
+
+
+
+
+    <string-array name="colorsAccentName">
+        <item>colorLightGreen</item>
+        <item>colorPink</item>
+        <item>colorGreen</item>
+        <item>colorIndigo</item>
+        <item>colorCyan</item>
+        <item>colorAmber</item>
+        <item>colorBrown</item>
+        <item>colorRed</item>
+        <item>colorLime</item>
+        <item>colorGrey</item>
+        <item>colorBlueGrey</item>
+        <item>colorOrange</item>
+        <item>colorPurple</item>
+        <item>colorTeal</item>
+    </string-array>
+
+    <string-array name="stylesName">
+        <item>styleDeepPurple</item>
+        <item>styleBlueGrey</item>
+        <item>styleIndigo</item>
+        <item>styleGrey</item>
+        <item>styleBrown</item>
+        <item>stylePurple</item>
+        <item>styleAmber</item>
+        <item>styleCyan</item>
+        <item>stylePink</item>
+        <item>styleTeal</item>
+        <item>styleRed</item>
+        <item>styleGreen</item>
+        <item>styleLime</item>
+        <item>styleOrange</item>
+    </string-array>
+</resources>
