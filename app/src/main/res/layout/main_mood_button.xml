@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="100dp"
+    android:layout_height="100dp"
+    android:orientation="vertical"
+    android:foreground="?selectableItemBackground"
+    android:layout_marginTop="2dp">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="1dp"
+        android:layout_marginRight="1dp"
+        android:text="Happy"
+        android:background="@color/colorPink"
+        android:textColor="@android:color/white"
+        android:id="@+id/btnMood"
+
+
+        />
+
+
+</LinearLayout>
